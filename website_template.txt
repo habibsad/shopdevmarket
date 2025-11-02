@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
 <head>
@@ -8,3 +9,15 @@
   <p>This is a free website example template.</p>
 </body>
 </html>
+=======
+<!DOCTYPE html>
+<html>
+<head>
+  <title>DevMarket Template</title>
+</head>
+<body>
+  <h1>Welcome to DevMarket!</h1>
+  <p>This is a free website example template.</p>
+</body>
+</html>
+>>>>>>> a3dd8f40d4589bdded92de13b327928c76991a72

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /// Example Bot Template
 const { Client } = require("discord.js");
 const client = new Client({ intents: [] });
@@ -16,3 +17,23 @@ client.on("ready", () => {
 });
 
 client.login("YOUR_TOKEN");
+=======
+/// Example Bot Template
+const { Client } = require("discord.js");
+const client = new Client({ intents: [] });
+
+client.on("ready", () => {
+  console.log(`Bot logged in as ${client.user.tag}`);
+});
+
+client.login("YOUR_TOKEN");
+/ Example Bot Template
+const { Client } = require("discord.js");
+const client = new Client({ intents: [] });
+
+client.on("ready", () => {
+  console.log(`Bot logged in as ${client.user.tag}`);
+});
+
+client.login("YOUR_TOKEN");
+>>>>>>> a3dd8f40d4589bdded92de13b327928c76991a72
