@@ -1,0 +1,16 @@
+{
+  "name": "botstore",
+  "version": "1.0.0",
+  "description": "Discord bot for DevMarket store",
+  "main": "index.cjs",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.cjs"
+  },
+  "author": "habib",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.15.0",
+    "dotenv": "^17.2.3"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "template1": {
+    "name": "Bot Template",
+    "price": 200,
+    "file": "bot_template.txt"
+  },
+  "template2": {
+    "name": "Website Template",
+    "price": 300,
+    "file": "website_template.txt"
+  }
+}
