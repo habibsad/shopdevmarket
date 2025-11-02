@@ -1,0 +1,18 @@
+/// Example Bot Template
+const { Client } = require("discord.js");
+const client = new Client({ intents: [] });
+
+client.on("ready", () => {
+  console.log(`Bot logged in as ${client.user.tag}`);
+});
+
+client.login("YOUR_TOKEN");
+/ Example Bot Template
+const { Client } = require("discord.js");
+const client = new Client({ intents: [] });
+
+client.on("ready", () => {
+  console.log(`Bot logged in as ${client.user.tag}`);
+});
+
+client.login("YOUR_TOKEN");
